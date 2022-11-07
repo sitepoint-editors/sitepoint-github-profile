@@ -1,4 +1,4 @@
-# Create a GitHub profile README
+# Create a GitHub profile README.
 
 This repository contains the code for SitePoint tutorial on creating a GitHub profile README.
 
