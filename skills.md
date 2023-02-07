@@ -1,4 +1,16 @@
 
+### Hi there 👋, I am Brooke (Huidi).
+#### A Data Scientist passionate for Challenges.
+![A Data Scientist passionate for Challenges.](https://github.com/brookeHD/sitepoint-github-profile/blob/7308b2cdac95ae52d71dc30d14006b44ce7baf1c/assets/github-header-image.png)
+
+
+- 🌱 I’m currently learning Apache Kafka 
+- 📫 Reach me: brooke.chu4ds@gmail.com 
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brookeHD&show_icons=true&count_private=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=brookeHD)  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
